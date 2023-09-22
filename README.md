@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -31,3 +32,6 @@ Once `pip` has finished downloading the dependencies:
 (env)$ python manage.py runserver
 ```
 And navigate to `http://127.0.0.1:8000/demo`.
+=======
+# Youttify_music_app
+>>>>>>> ff5f4686a012e900efc312364e73c620fddad31b
